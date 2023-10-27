@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/abetomoki0420/release-please-demo/compare/v1.1.0...v2.0.0) (2023-10-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* add greatCalc
+
+### Features
+
+* add greatCalc ([69774aa](https://github.com/abetomoki0420/release-please-demo/commit/69774aaf2232645abad276ab8067833745dd2dfd))
+
 ## [1.1.0](https://github.com/abetomoki0420/release-please-demo/compare/v1.0.0...v1.1.0) (2023-10-27)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/abetomoki0420/release-please-demo/compare/v2.0.0...v2.0.1) (2023-10-27)
+
+
+### Bug Fixes
+
+* fix b variable ([035a6ab](https://github.com/abetomoki0420/release-please-demo/commit/035a6ab8b4607b54a37b5858c9d054528a910bd3))
+
 ## [2.0.0](https://github.com/abetomoki0420/release-please-demo/compare/v1.1.0...v2.0.0) (2023-10-27)
 
 

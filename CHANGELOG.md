@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/abetomoki0420/release-please-demo/compare/v2.0.1...v2.1.0) (2023-10-29)
+
+
+### Features
+
+* add sayHi function ([90eba5e](https://github.com/abetomoki0420/release-please-demo/commit/90eba5e2a26e933658b2ca0625bab04a613f3215))
+
 ## [2.0.1](https://github.com/abetomoki0420/release-please-demo/compare/v2.0.0...v2.0.1) (2023-10-27)
 
 

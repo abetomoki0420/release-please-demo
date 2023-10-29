@@ -7,3 +7,7 @@ const greatCalc = () => {
   const b = 1;
   return a + b;
 }
+
+const sayHi = () => {
+  console.log("say hi")
+}
